@@ -1,0 +1,27 @@
+{
+  "name": "awesome-app-2023a",
+  "version": "0.0.0",
+  "description": "App for learning ExpressJs",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "engines": {
+    "node": "20.0.0",
+    "npm": "9.6.4"
+  },
+  "keywords": [
+    "Express",
+    "ITGAM",
+    "DWPC1.",
+    "JavaScript"
+  ],
+  "author": "Gustavo Resendiz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-status": "^1.6.2"
+  }
+}
